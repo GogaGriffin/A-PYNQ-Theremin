@@ -9,3 +9,6 @@
 --Project Report
 
 To start the project, upload the "Theremin Files For PYNQ" folder onto the Jupyter Notebook and run all cells.
+
+For this project, Vivado 2020.2 was used, and the patch above was installed to this version.
+    *Patch: https://support.xilinx.com/s/article/76960?language=en_US
